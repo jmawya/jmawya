@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I’m Jannatul Mawya 👋
-
+# About Me
 I am a final-semester **BSc student in Computer Science and Engineering (CSE)** with strong interests in **Data Science, Machine Learning, Natural Language Processing (NLP), and Data Analytics**.
 
 Currently, I am working on my **undergraduate thesis focused on cyberbullying comment detection**, applying NLP and machine learning techniques to analyze and classify harmful online text.

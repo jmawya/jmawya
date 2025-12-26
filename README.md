@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# I’m Jannatul Mawya 👋
+
+I am a final-semester **BSc student in Computer Science and Engineering (CSE)** with strong interests in **Data Science, Machine Learning, Natural Language Processing (NLP), and Data Analytics**.
+
+Currently, I am working on my **undergraduate thesis focused on cyberbullying comment detection**, applying NLP and machine learning techniques to analyze and classify harmful online text.
+
+---
+
+## 🛠️ Tools & Technologies I Use
+- **Programming Languages:** Python, Java  
+- **Data Science & ML Tools:** Jupyter Notebook, Scikit-learn, NLTK, Pandas, NumPy  
+- **Project Management:** Jira  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📫 How to Reach Me
+- **Email:** [jmawya07@gmail.com](mailto:jmawya07@gmail.com)  
+
+---
+
+⭐ *This repository represents my learning journey, projects, and research work.*

@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# I’m Jannatul Mawya 👋
+# I’m Jannatul Mawya 
 # About Me
 I am a final-semester **BSc student in Computer Science and Engineering (CSE)** with strong interests in **Data Science, Machine Learning, Natural Language Processing (NLP), and Data Analytics**.
 

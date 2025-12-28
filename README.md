@@ -21,12 +21,20 @@ I am a final-semester **BSc student in Computer Science and Engineering (CSE)** 
 Currently, I am working on my **undergraduate thesis focused on cyberbullying comment detection**, applying NLP and machine learning techniques to analyze and classify harmful online text.
 
 ---
+## 🛠 Technical Skills
 
-## 🛠️ Tools & Technologies I Use
-- **Programming Languages:** Python, Java  
-- **Data Science & ML Tools:** Jupyter Notebook, Scikit-learn, NLTK, Pandas, NumPy  
-- **Project Management:** Jira  
-- **Version Control:** Git & GitHub  
+**Languages:** Python, Java, JavaScript, HTML5, CSS3  
+
+**Data Science & ML Tools:** Jupyter Notebook, Scikit-learn, NLTK, Pandas, NumPy  
+
+**Testing Tools:** Selenium WebDriver, TestNG, Cucumber BDD, Postman, JMeter  
+
+**Databases:** MySQL, SQL Server, Database Design, SQL Querying  
+
+**Development & APIs:** REST API, JSON, XML  
+
+**Tools & Platforms:** Jira, Git, GitHub, Maven, Jenkins, Chrome DevTools
+
 
 ---
 

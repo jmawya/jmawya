@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 # I’m Jannatul Mawya 
 # About Me
-I am a final-semester **BSc student in Computer Science and Engineering (CSE)** with strong interests in **Data Science, Machine Learning, Natural Language Processing (NLP), and Data Analytics**.
-
-Currently, I am working on my **undergraduate thesis focused on cyberbullying comment detection**, applying NLP and machine learning techniques to analyze and classify harmful online text.
+I am a Computer Science and Engineering graduate passionate about iOS and mobile app development. I am currently focused on expanding my development skills through hands-on learning and practical projects, with the goal of building a strong career in mobile application development.
 
 ---
 ## 🛠 Technical Skills
 
-**Languages:** Python, Java, JavaScript, HTML5, CSS3  
+**Languages:** Dart, Java, JavaScript, HTML5, CSS3  
 
 **Data Science & ML Tools:** Jupyter Notebook, Scikit-learn, NLTK, Pandas, NumPy  
 
